@@ -1,7 +1,0 @@
-[core]
-    remote = minio
-['remote "minio"']
-    url = s3://conf-search
-    endpointurl = https://minio.trassir.com:9000/
-    access_key_id = access
-    secret_access_key = secret
